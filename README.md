@@ -12,24 +12,25 @@ This list explores awesome projects that uses blockchain technologies.
 - https://www.connectbit.com/blockchain-applications/
 
 
-### DeFi & Finance Projects
+## DeFi & Finance Projects
 
 - [Decentralizing AI: Dreamers vs. Pragmatists.](https://towardsdatascience.com/decentralizing-ai-dreamers-vs-pragmatists-230c48d1b350) - Jesus Rodriguez, May 23, 2019.
+- [Pundix](https://pundix.com) - Payment solution
 
-### Insurance
+## Insurance
 - https://ryskex.com/trust-truth/
 - https://b3i.tech/home.html
 - https://tierion.com/ - trust platform
 - https://etherisc.com/ - Framework
 
-### Supply Chain
+## Supply Chain
 **Projects**
 - [Waltonchain](https://www.waltonchain.org)
 - [Modum](https://modum.io)
 - [Ambrosus](https://ambrosus.com)
 - [Chronicled](https://www.chronicled.com)
 
-### Digital Identity & SSI
+## Digital Identity & SSI
 **What is Self-sovereign identity?**
 > Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world. [Source](https://sovrin.org/faq/what-is-self-sovereign-identity/)
 
@@ -43,25 +44,27 @@ This list explores awesome projects that uses blockchain technologies.
 - [MATTR Open Source](https://mattr.global/opensource) - "MATTR actively collaborates with community members globally on standards development for Decentralised Identity."
 - [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) - Blockchain for identity solutions
 
-### Document Verification
+## Document Verification
 
 - [True Profile](https://www.trueprofile.io) - "our mission is to help international job applicants and employers establish an immediate trusting, professional relationship. We do this using cutting-edge blockchain technology to securely verify applicant qualifications for prospective employers."
   
-### DAO (Decentralized Autonomous Organization)
+## DAO (Decentralized Autonomous Organization)
 
-- https://www.jelurida.com/ - consultant mit eigenen Chains
-- https://digix.global/ - gold on the blockchain
-- https://bitshares.org/ - DAC & exchange
-- https://daostack.io/ - DAO framework
-- colony.io 
-- district0x.io 
-- https://aragon.org/ - Framework
-- https://slock.it/ - The DAO Hack
-- humanitydao.org
+> A decentralized autonomous organization (DAO), sometimes labeled a decentralized autonomous corporation (DAC), is an organization represented by rules encoded as a computer program that is transparent, controlled by shareholders and not influenced by a central government. A DAO's financial transaction record and program rules are maintained on a blockchain. - [Wikipedia](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
+
+- [Aragon](https://aragon.org) - DAO Framework
+- [DAO Stack](https://daostack.io) - DAO framework
+- [Colony](https://colony.io) - DAO framework
+- [District0x](https://district0x.io) - DAO framework
+- [Slock It](https://slock.it) - The DAO Hack
+- [Humanity DAO](https://humanitydao.org)
+- [Digix Global](https://digix.global) - gold on the blockchain
+- [Bit Shares](https://bitshares.org) - DAC & exchange
+- [Jelurida](https://www.jelurida.com) - consultant mit eigenen Chains
 
 **Articles**
-- https://daotalk.org/t/resource-list-dao-creation-design/522 - DAO Resources
-- https://research.binance.com/analysis/dao-theory
+- [Resource List – DAO Creation & Design](https://daotalk.org/t/resource-list-dao-creation-design/522)
+- [Binance: Theory and praxis of DAOs](https://research.binance.com/analysis/dao-theory)
 
 **Charity DAOs**
 - https://giveth.io/
@@ -69,7 +72,7 @@ This list explores awesome projects that uses blockchain technologies.
 - http://weifund.io/
 - http://www.benefactory.cc/
 
-### Energie Sector
+### Energy Sector
 
 - https://lo3energy.com/
 - https://gridplus.io/ - payment
@@ -88,5 +91,3 @@ This list explores awesome projects that uses blockchain technologies.
 - [Awesome Blockchain Services and Exchanges](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges
 - [Awesome Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) - A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 - https://github.com/machinomy/awesome-non-financial-blockchain
-
-https://pundix.com/ - Payment solution
