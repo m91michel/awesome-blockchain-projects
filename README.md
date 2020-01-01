@@ -4,24 +4,36 @@
 
 This list explores awesome projects that uses blockchain technologies.
 
-### Overview Websites
+## Contents
+- [DeFI & Finance](#defi--finance)
+- [Insurance](#insurance)
+- [Supply Chain](#supply-chain)
+- [Digital Identity & SSI](#digital-identity--ssi)
+- [Document Verification](#document-verification)
 
-- https://www.disruptordaily.com/
-- https://medium.com/@matteozago/50-examples-of-how-blockchains-are-taking-over-the-world-4276bf488a4b
-- https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99
-- https://www.connectbit.com/blockchain-applications/
+- [Energy](#energy-sector)
+- [Medicine](#medicine)
+- [Charity & Humanity](#charity--humanity)
+
+### Collection of blockchain use cases
+
+- [Disruptor Daily](https://www.disruptordaily.com) - Which industry will blockchain disrupt next?
+- [50+ Examples of How Blockchains are Taking Over the World](https://medium.com/@matteozago/50-examples-of-how-blockchains-are-taking-over-the-world-4276bf488a4b)
+- [Blockchain for 2018 and Beyond: A (growing) list of blockchain use cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99)
+- [Blockchain Applications: 62 Killer Ideas For You](https://www.connectbit.com/blockchain-applications)
 
 
-## DeFi & Finance Projects
+## DeFi & Finance
 
-- [Decentralizing AI: Dreamers vs. Pragmatists.](https://towardsdatascience.com/decentralizing-ai-dreamers-vs-pragmatists-230c48d1b350) - Jesus Rodriguez, May 23, 2019.
 - [Pundix](https://pundix.com) - Payment solution
+- 🔵[Dash](https://www.dash.org/) - Payment solution for instant transactions and micro-fees.
+- 🔵[MakerDAO](https://makerdao.com/en/) - Decentralized lending plattform with own stable coin called DAI
 
 ## Insurance
-- https://ryskex.com/trust-truth/
-- https://b3i.tech/home.html
-- https://tierion.com/ - trust platform
-- https://etherisc.com/ - Framework
+- [Ryskex](https://ryskex.com) - "Next level of risk and captive management driven by artificial intelligence and blockchain technology"
+- [B3i Consortium](https://b3i.tech) - "B3i is creating a better insurance industry by developing standards, protocols and network infrastructure to remove friction in risk transfer."
+- [Tierion](https://tierion.com) - "Tierion creates technology and products that reduce the cost and complexity of trust."
+- [Etherisc](https://etherisc.com) - "Decentralized insurance protocol to collectively build insurance products."
 
 ## Supply Chain
 **Projects**
@@ -52,40 +64,41 @@ This list explores awesome projects that uses blockchain technologies.
 
 > A decentralized autonomous organization (DAO), sometimes labeled a decentralized autonomous corporation (DAC), is an organization represented by rules encoded as a computer program that is transparent, controlled by shareholders and not influenced by a central government. A DAO's financial transaction record and program rules are maintained on a blockchain. - [Wikipedia](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 
-- [Aragon](https://aragon.org) - DAO Framework
+- 🔵[Aragon](https://aragon.org) - DAO Framework
 - [DAO Stack](https://daostack.io) - DAO framework
 - [Colony](https://colony.io) - DAO framework
 - [District0x](https://district0x.io) - DAO framework
 - [Slock It](https://slock.it) - The DAO Hack
 - [Humanity DAO](https://humanitydao.org)
 - [Digix Global](https://digix.global) - gold on the blockchain
-- [Bit Shares](https://bitshares.org) - DAC & exchange
+- 🔵[Bit Shares](https://bitshares.org) - DAC & exchange
 - [Jelurida](https://www.jelurida.com) - consultant mit eigenen Chains
+
+🔵Indicates that a project is governed by a DAO
 
 **Articles**
 - [Resource List – DAO Creation & Design](https://daotalk.org/t/resource-list-dao-creation-design/522)
 - [Binance: Theory and praxis of DAOs](https://research.binance.com/analysis/dao-theory)
 
-**Charity DAOs**
-- https://giveth.io/
-- https://alice.si/
-- http://weifund.io/
-- http://www.benefactory.cc/
+## Energy Sector
 
-### Energy Sector
+- [LO3 Energy](https://lo3energy.com) - deliver a local energy marketplace
+- [Grid+ Energy](https://gridplus.io/energy) - "GridPlus Energy works to save residential electricity consumers money with unique capabilities through smart software, hardware, and blockchain technologies."
+- 🔵[MyBit](https://mybit.io) - "Using Blockchain technology, MyBit creates an inclusive, equal, and accessible investment marketplace. So instead of a few people owning all of the machines, anyone can profit from machine labour and participate in the economy of the future."
+- [WePower](https://wepower.network)
+- [swytchX](https://swytch.io) - "Trace your energy supply back to its source. Understand your carbon impact. View your entire sustainability footprint in one place."
+- [Solarcoin](https://solarcoin.org) - SolarCoin is a reward for solar energy producers.
 
-- https://lo3energy.com/
-- https://gridplus.io/ - payment
-- https://mybit.io/
-- https://wepower.network/
-- https://swytch.io/
-- https://solarcoin.org/ - Earn coins for produced energy
+## Medicine
+- [Doc.ai](https://doc.ai) - "We are an artificial intelligence company transforming health research."
 
-### Medicine
-- https://doc.ai/
+## Charity & Humanity
+- [Giveth.io](https://giveth.io) - "A community focused on making the world a better place through the use of blockchain technology."
+- [Alice](https://alice.si) - "A financial platform for measurable impact projects. We help impact investors, governments and nonprofits fund projects with fully tracked impact data and low transaction costs."
+- [WeiFund](http://weifund.io) - An open platform for crowdfunding campaigns.
+- [Benefactory](http://www.benefactory.cc) - "Benefactory grows the grassroots sector of our economy."
 
-
-### Further Links
+## Further Links
 - [20 Blockchain Projects](https://media.consensys.net/the-20-blockchain-projects-with-the-most-developer-activity-on-github-6e0d6e748b8d) - The 20 Blockchain Projects With the Most Developer Activity on Github
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) - Curated list of resources for the development and applications of blockchain.
 - [Awesome Blockchain Services and Exchanges](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges
