@@ -21,6 +21,8 @@ This list explores awesome projects that uses blockchain technologies.
 - [50+ Examples of How Blockchains are Taking Over the World](https://medium.com/@matteozago/50-examples-of-how-blockchains-are-taking-over-the-world-4276bf488a4b)
 - [Blockchain for 2018 and Beyond: A (growing) list of blockchain use cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99)
 - [Blockchain Applications: 62 Killer Ideas For You](https://www.connectbit.com/blockchain-applications)
+- [Top 17 blockchain applications and use cases in 2022](https://research.aimultiple.com/blockchain-applications/)
+- [34 Blockchain Applications and Real-World Use Cases](https://builtin.com/blockchain/blockchain-applications)
 
 
 ## DeFi & Finance
@@ -28,6 +30,7 @@ This list explores awesome projects that uses blockchain technologies.
 - [Pundix](https://pundix.com) - Payment solution
 - 🔵[Dash](https://www.dash.org/) - Payment solution for instant transactions and micro-fees.
 - 🔵[MakerDAO](https://makerdao.com/en/) - Decentralized lending plattform with own stable coin called DAI
+- [Lazerpay](https://www.lazerpay.finance/) - Empower your business to accept payments globally, earn rewards and invest in crypto.
 
 ## Insurance
 - [Ryskex](https://ryskex.com) - "Next level of risk and captive management driven by artificial intelligence and blockchain technology"
