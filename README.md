@@ -31,6 +31,7 @@ This list explores awesome projects that uses blockchain technologies.
 - 🔵[Dash](https://www.dash.org/) - Payment solution for instant transactions and micro-fees.
 - 🔵[MakerDAO](https://makerdao.com/en/) - Decentralized lending plattform with own stable coin called DAI
 - [Lazerpay](https://www.lazerpay.finance/) - Empower your business to accept payments globally, earn rewards and invest in crypto.
+- [Bitnob](https://bitnob.com/) - Bitnob is a delightful way to save, borrow, pay, receive, and get paid in Bitcoin on time.
 
 ## Insurance
 - [Ryskex](https://ryskex.com) - "Next level of risk and captive management driven by artificial intelligence and blockchain technology"
